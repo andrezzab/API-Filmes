@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "year": 1980,
     "title": "Can't Stop the Music",
     "studios": "Associated Film Distribution",
@@ -7,6 +8,7 @@
     "winner": "yes"
   },
   {
+    "id": 2,
     "year": 1980,
     "title": "Cruising",
     "studios": "Lorimar Productions, United Artists",
@@ -14,6 +16,7 @@
     "winner": ""
   },
   {
+    "id": 3,
     "year": 1980,
     "title": "The Formula",
     "studios": "MGM, United Artists",
@@ -21,6 +24,7 @@
     "winner": ""
   },
   {
+    "id": 4,
     "year": 1980,
     "title": "Friday the 13th",
     "studios": "Paramount Pictures",
@@ -28,6 +32,7 @@
     "winner": ""
   },
   {
+    "id": 5,
     "year": 1980,
     "title": "The Nude Bomb",
     "studios": "Universal Studios",
@@ -35,6 +40,7 @@
     "winner": ""
   },
   {
+    "id": 6,
     "year": 1980,
     "title": "The Jazz Singer",
     "studios": "Associated Film Distribution",
@@ -42,6 +48,7 @@
     "winner": ""
   },
   {
+    "id": 7,
     "year": 1980,
     "title": "Raise the Titanic",
     "studios": "Associated Film Distribution",
@@ -49,6 +56,7 @@
     "winner": ""
   },
   {
+    "id": 8,
     "year": 1980,
     "title": "Saturn 3",
     "studios": "Associated Film Distribution",
@@ -56,6 +64,7 @@
     "winner": ""
   },
   {
+    "id": 9,
     "year": 1980,
     "title": "Windows",
     "studios": "United Artists",
@@ -63,6 +72,7 @@
     "winner": ""
   },
   {
+    "id": 10,
     "year": 1980,
     "title": "Xanadu",
     "studios": "Universal Studios",
@@ -70,6 +80,7 @@
     "winner": ""
   },
   {
+    "id": 11,
     "year": 1981,
     "title": "Mommie Dearest",
     "studios": "Paramount Pictures",
@@ -77,6 +88,7 @@
     "winner": "yes"
   },
   {
+    "id": 12,
     "year": 1981,
     "title": "Endless Love",
     "studios": "Universal Studios, PolyGram",
@@ -84,6 +96,7 @@
     "winner": ""
   },
   {
+    "id": 13,
     "year": 1981,
     "title": "Heaven's Gate",
     "studios": "United Artists",
@@ -91,6 +104,7 @@
     "winner": ""
   },
   {
+    "id": 14,
     "year": 1981,
     "title": "The Legend of the Lone Ranger",
     "studios": "Universal Studios, Associated Film Distribution",
@@ -98,6 +112,7 @@
     "winner": ""
   },
   {
+    "id": 15,
     "year": 1981,
     "title": "Tarzan, the Ape Man",
     "studios": "MGM, United Artists",
@@ -105,6 +120,7 @@
     "winner": ""
   },
   {
+    "id": 16,
     "year": 1982,
     "title": "Inchon",
     "studios": "MGM",
@@ -112,6 +128,7 @@
     "winner": "yes"
   },
   {
+    "id": 17,
     "year": 1982,
     "title": "Annie",
     "studios": "Columbia Pictures",
@@ -119,6 +136,7 @@
     "winner": ""
   },
   {
+    "id": 18,
     "year": 1982,
     "title": "Butterfly",
     "studios": "Analysis Film Releasing",
@@ -126,6 +144,7 @@
     "winner": ""
   },
   {
+    "id": 19,
     "year": 1982,
     "title": "Megaforce",
     "studios": "20th Century Fox",
@@ -133,6 +152,7 @@
     "winner": ""
   },
   {
+    "id": 20,
     "year": 1982,
     "title": "The Pirate Movie",
     "studios": "20th Century Fox",
@@ -140,6 +160,7 @@
     "winner": ""
   },
   {
+    "id": 21,
     "year": 1983,
     "title": "The Lonely Lady",
     "studios": "Universal Studios",
@@ -147,6 +168,7 @@
     "winner": "yes"
   },
   {
+    "id": 22,
     "year": 1983,
     "title": "Hercules",
     "studios": "MGM, United Artists, Cannon Films",
@@ -154,6 +176,7 @@
     "winner": ""
   },
   {
+    "id": 23,
     "year": 1983,
     "title": "Jaws 3-D",
     "studios": "Universal Studios",
@@ -161,6 +184,7 @@
     "winner": ""
   },
   {
+    "id": 24,
     "year": 1983,
     "title": "Stroker Ace",
     "studios": "Warner Bros., Universal Studios",
@@ -168,6 +192,7 @@
     "winner": ""
   },
   {
+    "id": 25,
     "year": 1983,
     "title": "Two of a Kind",
     "studios": "20th Century Fox",
@@ -175,6 +200,7 @@
     "winner": ""
   },
   {
+    "id": 26,
     "year": 1984,
     "title": "Bolero",
     "studios": "Cannon Films",
@@ -182,6 +208,7 @@
     "winner": "yes"
   },
   {
+    "id": 27,
     "year": 1984,
     "title": "Cannonball Run II",
     "studios": "Warner Bros.",
@@ -189,6 +216,7 @@
     "winner": ""
   },
   {
+    "id": 28,
     "year": 1984,
     "title": "Rhinestone",
     "studios": "20th Century Fox",
@@ -196,6 +224,7 @@
     "winner": ""
   },
   {
+    "id": 29,
     "year": 1984,
     "title": "Sheena",
     "studios": "Columbia Pictures",
@@ -203,6 +232,7 @@
     "winner": ""
   },
   {
+    "id": 30,
     "year": 1984,
     "title": "Where the Boys Are '84",
     "studios": "TriStar Pictures",
@@ -210,6 +240,7 @@
     "winner": ""
   },
   {
+    "id": 31,
     "year": 1985,
     "title": "Rambo: First Blood Part II",
     "studios": "Columbia Pictures",
@@ -217,6 +248,7 @@
     "winner": "yes"
   },
   {
+    "id": 32,
     "year": 1985,
     "title": "Fever Pitch",
     "studios": "MGM, United Artists",
@@ -224,6 +256,7 @@
     "winner": ""
   },
   {
+    "id": 33,
     "year": 1985,
     "title": "Revolution",
     "studios": "Warner Bros.",
@@ -231,6 +264,7 @@
     "winner": ""
   },
   {
+    "id": 34,
     "year": 1985,
     "title": "Rocky IV",
     "studios": "MGM, United Artists",
@@ -238,6 +272,7 @@
     "winner": ""
   },
   {
+    "id": 35,
     "year": 1985,
     "title": "Year of the Dragon",
     "studios": "MGM, United Artists",
@@ -245,6 +280,7 @@
     "winner": ""
   },
   {
+    "id": 36,
     "year": 1986,
     "title": "Howard the Duck",
     "studios": "Universal Studios",
@@ -252,6 +288,7 @@
     "winner": "yes"
   },
   {
+    "id": 37,
     "year": 1986,
     "title": "Under the Cherry Moon",
     "studios": "Warner Bros.",
@@ -259,6 +296,7 @@
     "winner": "yes"
   },
   {
+    "id": 38,
     "year": 1986,
     "title": "Blue City",
     "studios": "Paramount Pictures",
@@ -266,6 +304,7 @@
     "winner": ""
   },
   {
+    "id": 39,
     "year": 1986,
     "title": "Cobra",
     "studios": "Warner Bros., Cannon Films",
@@ -273,6 +312,7 @@
     "winner": ""
   },
   {
+    "id": 40,
     "year": 1986,
     "title": "Shanghai Surprise",
     "studios": "MGM",
@@ -280,6 +320,7 @@
     "winner": ""
   },
   {
+    "id": 41,
     "year": 1987,
     "title": "Leonard Part 6",
     "studios": "Columbia Pictures",
@@ -287,6 +328,7 @@
     "winner": "yes"
   },
   {
+    "id": 42,
     "year": 1987,
     "title": "Ishtar",
     "studios": "Columbia Pictures",
@@ -294,6 +336,7 @@
     "winner": ""
   },
   {
+    "id": 43,
     "year": 1987,
     "title": "Jaws: The Revenge",
     "studios": "Universal Studios",
@@ -301,6 +344,7 @@
     "winner": ""
   },
   {
+    "id": 44,
     "year": 1987,
     "title": "Tough Guys Don't Dance",
     "studios": "Cannon Films",
@@ -308,6 +352,7 @@
     "winner": ""
   },
   {
+    "id": 45,
     "year": 1987,
     "title": "Who's That Girl",
     "studios": "Warner Bros.",
@@ -315,6 +360,7 @@
     "winner": ""
   },
   {
+    "id": 46,
     "year": 1988,
     "title": "Cocktail",
     "studios": "Touchstone Pictures",
@@ -322,6 +368,7 @@
     "winner": "yes"
   },
   {
+    "id": 47,
     "year": 1988,
     "title": "Caddyshack II",
     "studios": "Warner Bros.",
@@ -329,6 +376,7 @@
     "winner": ""
   },
   {
+    "id": 48,
     "year": 1988,
     "title": "Hot to Trot",
     "studios": "Warner Bros.",
@@ -336,6 +384,7 @@
     "winner": ""
   },
   {
+    "id": 49,
     "year": 1988,
     "title": "Mac and Me",
     "studios": "Orion Pictures",
@@ -343,6 +392,7 @@
     "winner": ""
   },
   {
+    "id": 50,
     "year": 1988,
     "title": "Rambo III",
     "studios": "TriStar Pictures, Carolco Pictures",
@@ -350,6 +400,7 @@
     "winner": ""
   },
   {
+    "id": 51,
     "year": 1989,
     "title": "Star Trek V: The Final Frontier",
     "studios": "Paramount Pictures",
@@ -357,6 +408,7 @@
     "winner": "yes"
   },
   {
+    "id": 52,
     "year": 1989,
     "title": "The Karate Kid Part III",
     "studios": "Columbia Pictures",
@@ -364,6 +416,7 @@
     "winner": ""
   },
   {
+    "id": 53,
     "year": 1989,
     "title": "Lock Up",
     "studios": "TriStar Pictures, Carolco Pictures",
@@ -371,6 +424,7 @@
     "winner": ""
   },
   {
+    "id": 54,
     "year": 1989,
     "title": "Road House",
     "studios": "United Artists",
@@ -378,6 +432,7 @@
     "winner": ""
   },
   {
+    "id": 55,
     "year": 1989,
     "title": "Speed Zone",
     "studios": "Orion Pictures",
@@ -385,6 +440,7 @@
     "winner": ""
   },
   {
+    "id": 56,
     "year": 1990,
     "title": "The Adventures of Ford Fairlane",
     "studios": "20th Century Fox",
@@ -392,6 +448,7 @@
     "winner": "yes"
   },
   {
+    "id": 57,
     "year": 1990,
     "title": "Ghosts Can't Do It",
     "studios": "Triumph Releasing",
@@ -399,6 +456,7 @@
     "winner": "yes"
   },
   {
+    "id": 58,
     "year": 1990,
     "title": "The Bonfire of the Vanities",
     "studios": "Warner Bros.",
@@ -406,6 +464,7 @@
     "winner": ""
   },
   {
+    "id": 59,
     "year": 1990,
     "title": "Graffiti Bridge",
     "studios": "Warner Bros.",
@@ -413,6 +472,7 @@
     "winner": ""
   },
   {
+    "id": 60,
     "year": 1990,
     "title": "Rocky V",
     "studios": "United Artists",
@@ -420,6 +480,7 @@
     "winner": ""
   },
   {
+    "id": 61,
     "year": 1991,
     "title": "Hudson Hawk",
     "studios": "TriStar Pictures",
@@ -427,6 +488,7 @@
     "winner": "yes"
   },
   {
+    "id": 62,
     "year": 1991,
     "title": "Cool as Ice",
     "studios": "Universal Studios",
@@ -434,6 +496,7 @@
     "winner": ""
   },
   {
+    "id": 63,
     "year": 1991,
     "title": "Dice Rules",
     "studios": "Seven Arts Productions",
@@ -441,6 +504,7 @@
     "winner": ""
   },
   {
+    "id": 64,
     "year": 1991,
     "title": "Nothing but Trouble",
     "studios": "Warner Bros.",
@@ -448,6 +512,7 @@
     "winner": ""
   },
   {
+    "id": 65,
     "year": 1991,
     "title": "Return to the Blue Lagoon",
     "studios": "Columbia Pictures",
@@ -455,6 +520,7 @@
     "winner": ""
   },
   {
+    "id": 66,
     "year": 1992,
     "title": "Shining Through",
     "studios": "20th Century Fox",
@@ -462,6 +528,7 @@
     "winner": "yes"
   },
   {
+    "id": 67,
     "year": 1992,
     "title": "The Bodyguard",
     "studios": "Warner Bros.",
@@ -469,6 +536,7 @@
     "winner": ""
   },
   {
+    "id": 68,
     "year": 1992,
     "title": "Christopher Columbus: The Discovery",
     "studios": "Warner Bros.",
@@ -476,6 +544,7 @@
     "winner": ""
   },
   {
+    "id": 69,
     "year": 1992,
     "title": "Final Analysis",
     "studios": "20th Century Fox",
@@ -483,6 +552,7 @@
     "winner": ""
   },
   {
+    "id": 70,
     "year": 1992,
     "title": "Newsies",
     "studios": "Walt Disney Pictures",
@@ -490,6 +560,7 @@
     "winner": ""
   },
   {
+    "id": 71,
     "year": 1993,
     "title": "Indecent Proposal",
     "studios": "Paramount Pictures",
@@ -497,6 +568,7 @@
     "winner": "yes"
   },
   {
+    "id": 72,
     "year": 1993,
     "title": "Body of Evidence",
     "studios": "MGM, United Artists",
@@ -504,6 +576,7 @@
     "winner": ""
   },
   {
+    "id": 73,
     "year": 1993,
     "title": "Cliffhanger",
     "studios": "TriStar Pictures, Carolco Pictures",
@@ -511,6 +584,7 @@
     "winner": ""
   },
   {
+    "id": 74,
     "year": 1993,
     "title": "Last Action Hero",
     "studios": "Columbia Pictures",
@@ -518,6 +592,7 @@
     "winner": ""
   },
   {
+    "id": 75,
     "year": 1993,
     "title": "Sliver",
     "studios": "Paramount Pictures",
@@ -525,6 +600,7 @@
     "winner": ""
   },
   {
+    "id": 76,
     "year": 1994,
     "title": "Color of Night",
     "studios": "Hollywood Pictures",
@@ -532,6 +608,7 @@
     "winner": "yes"
   },
   {
+    "id": 77,
     "year": 1994,
     "title": "North",
     "studios": "Columbia Pictures, Castle Rock Entertainment",
@@ -539,6 +616,7 @@
     "winner": ""
   },
   {
+    "id": 78,
     "year": 1994,
     "title": "On Deadly Ground",
     "studios": "Warner Bros.",
@@ -546,6 +624,7 @@
     "winner": ""
   },
   {
+    "id": 79,
     "year": 1994,
     "title": "The Specialist",
     "studios": "Warner Bros.",
@@ -553,6 +632,7 @@
     "winner": ""
   },
   {
+    "id": 80,
     "year": 1994,
     "title": "Wyatt Earp",
     "studios": "Warner Bros.",
@@ -560,6 +640,7 @@
     "winner": ""
   },
   {
+    "id": 81,
     "year": 1995,
     "title": "Showgirls",
     "studios": "MGM, United Artists",
@@ -567,6 +648,7 @@
     "winner": "yes"
   },
   {
+    "id": 82,
     "year": 1995,
     "title": "Congo",
     "studios": "Paramount Pictures",
@@ -574,6 +656,7 @@
     "winner": ""
   },
   {
+    "id": 83,
     "year": 1995,
     "title": "It's Pat",
     "studios": "Touchstone Pictures",
@@ -581,6 +664,7 @@
     "winner": ""
   },
   {
+    "id": 84,
     "year": 1995,
     "title": "The Scarlet Letter",
     "studios": "Hollywood Pictures",
@@ -588,6 +672,7 @@
     "winner": ""
   },
   {
+    "id": 85,
     "year": 1995,
     "title": "Waterworld",
     "studios": "Universal Studios",
@@ -595,6 +680,7 @@
     "winner": ""
   },
   {
+    "id": 86,
     "year": 1996,
     "title": "Striptease",
     "studios": "Columbia Pictures, Castle Rock Entertainment",
@@ -602,6 +688,7 @@
     "winner": "yes"
   },
   {
+    "id": 87,
     "year": 1996,
     "title": "Barb Wire",
     "studios": "PolyGram Filmed Entertainment, Gramercy Pictures",
@@ -609,6 +696,7 @@
     "winner": ""
   },
   {
+    "id": 88,
     "year": 1996,
     "title": "Ed",
     "studios": "Universal Studios",
@@ -616,6 +704,7 @@
     "winner": ""
   },
   {
+    "id": 89,
     "year": 1996,
     "title": "The Island of Dr. Moreau",
     "studios": "New Line Cinema",
@@ -623,6 +712,7 @@
     "winner": ""
   },
   {
+    "id": 90,
     "year": 1996,
     "title": "The Stupids",
     "studios": "New Line Cinema, Savoy Pictures",
@@ -630,6 +720,7 @@
     "winner": ""
   },
   {
+    "id": 91,
     "year": 1997,
     "title": "The Postman",
     "studios": "Warner Bros.",
@@ -637,6 +728,7 @@
     "winner": "yes"
   },
   {
+    "id": 92,
     "year": 1997,
     "title": "Anaconda",
     "studios": "Columbia Pictures",
@@ -644,6 +736,7 @@
     "winner": ""
   },
   {
+    "id": 93,
     "year": 1997,
     "title": "Batman & Robin",
     "studios": "Warner Bros.",
@@ -651,6 +744,7 @@
     "winner": ""
   },
   {
+    "id": 94,
     "year": 1997,
     "title": "Fire Down Below",
     "studios": "Warner Bros.",
@@ -658,6 +752,7 @@
     "winner": ""
   },
   {
+    "id": 95,
     "year": 1997,
     "title": "Speed 2: Cruise Control",
     "studios": "20th Century Fox",
@@ -665,6 +760,7 @@
     "winner": ""
   },
   {
+    "id": 96,
     "year": 1998,
     "title": "An Alan Smithee Film: Burn Hollywood Burn",
     "studios": "Hollywood Pictures",
@@ -672,6 +768,7 @@
     "winner": "yes"
   },
   {
+    "id": 97,
     "year": 1998,
     "title": "Armageddon",
     "studios": "Touchstone Pictures",
@@ -679,6 +776,7 @@
     "winner": ""
   },
   {
+    "id": 98,
     "year": 1998,
     "title": "The Avengers",
     "studios": "Warner Bros.",
@@ -686,6 +784,7 @@
     "winner": ""
   },
   {
+    "id": 99,
     "year": 1998,
     "title": "Godzilla",
     "studios": "TriStar Pictures",
@@ -693,6 +792,7 @@
     "winner": ""
   },
   {
+    "id": 100,
     "year": 1998,
     "title": "Spice World",
     "studios": "Columbia Pictures",
@@ -700,6 +800,7 @@
     "winner": ""
   },
   {
+    "id": 101,
     "year": 1999,
     "title": "Wild Wild West",
     "studios": "Warner Bros.",
@@ -707,6 +808,7 @@
     "winner": "yes"
   },
   {
+    "id": 102,
     "year": 1999,
     "title": "Big Daddy",
     "studios": "Columbia Pictures",
@@ -714,6 +816,7 @@
     "winner": ""
   },
   {
+    "id": 103,
     "year": 1999,
     "title": "The Blair Witch Project",
     "studios": "Artisan Entertainment",
@@ -721,6 +824,7 @@
     "winner": ""
   },
   {
+    "id": 104,
     "year": 1999,
     "title": "The Haunting",
     "studios": "DreamWorks",
@@ -728,6 +832,7 @@
     "winner": ""
   },
   {
+    "id": 105,
     "year": 1999,
     "title": "Star Wars: Episode I – The Phantom Menace",
     "studios": "20th Century Fox",
@@ -735,6 +840,7 @@
     "winner": ""
   },
   {
+    "id": 106,
     "year": 2000,
     "title": "Battlefield Earth",
     "studios": "Warner Bros., Franchise Pictures",
@@ -742,6 +848,7 @@
     "winner": "yes"
   },
   {
+    "id": 107,
     "year": 2000,
     "title": "Book of Shadows: Blair Witch 2",
     "studios": "Artisan Entertainment",
@@ -749,6 +856,7 @@
     "winner": ""
   },
   {
+    "id": 108,
     "year": 2000,
     "title": "The Flintstones in Viva Rock Vegas",
     "studios": "Universal Studios",
@@ -756,6 +864,7 @@
     "winner": ""
   },
   {
+    "id": 109,
     "year": 2000,
     "title": "Little Nicky",
     "studios": "New Line Cinema",
@@ -763,6 +872,7 @@
     "winner": ""
   },
   {
+    "id": 110,
     "year": 2000,
     "title": "The Next Best Thing",
     "studios": "Paramount Pictures",
@@ -770,6 +880,7 @@
     "winner": ""
   },
   {
+    "id": 111,
     "year": 2001,
     "title": "Freddy Got Fingered",
     "studios": "20th Century Fox",
@@ -777,6 +888,7 @@
     "winner": "yes"
   },
   {
+    "id": 112,
     "year": 2001,
     "title": "Driven",
     "studios": "Warner Bros., Franchise Pictures",
@@ -784,6 +896,7 @@
     "winner": ""
   },
   {
+    "id": 113,
     "year": 2001,
     "title": "Glitter",
     "studios": "20th Century Fox, Columbia Pictures",
@@ -791,6 +904,7 @@
     "winner": ""
   },
   {
+    "id": 114,
     "year": 2001,
     "title": "Pearl Harbor",
     "studios": "Touchstone Pictures",
@@ -798,6 +912,7 @@
     "winner": ""
   },
   {
+    "id": 115,
     "year": 2001,
     "title": "3000 Miles to Graceland",
     "studios": "Warner Bros., Franchise Pictures",
@@ -805,6 +920,7 @@
     "winner": ""
   },
   {
+    "id": 116,
     "year": 2002,
     "title": "Swept Away",
     "studios": "Screen Gems",
@@ -812,6 +928,7 @@
     "winner": "yes"
   },
   {
+    "id": 117,
     "year": 2002,
     "title": "The Adventures of Pluto Nash",
     "studios": "Warner Bros.",
@@ -819,6 +936,7 @@
     "winner": ""
   },
   {
+    "id": 118,
     "year": 2002,
     "title": "Crossroads",
     "studios": "Paramount Pictures",
@@ -826,6 +944,7 @@
     "winner": ""
   },
   {
+    "id": 119,
     "year": 2002,
     "title": "Pinocchio",
     "studios": "Miramax Films",
@@ -833,6 +952,7 @@
     "winner": ""
   },
   {
+    "id": 120,
     "year": 2002,
     "title": "Star Wars: Episode II – Attack of the Clones",
     "studios": "20th Century Fox",
@@ -840,6 +960,7 @@
     "winner": ""
   },
   {
+    "id": 121,
     "year": 2003,
     "title": "Gigli",
     "studios": "Columbia Pictures, Revolution Studios",
@@ -847,6 +968,7 @@
     "winner": "yes"
   },
   {
+    "id": 122,
     "year": 2003,
     "title": "The Cat in the Hat",
     "studios": "Universal Studios, DreamWorks",
@@ -854,6 +976,7 @@
     "winner": ""
   },
   {
+    "id": 123,
     "year": 2003,
     "title": "Charlie's Angels: Full Throttle",
     "studios": "Columbia Pictures",
@@ -861,6 +984,7 @@
     "winner": ""
   },
   {
+    "id": 124,
     "year": 2003,
     "title": "From Justin to Kelly",
     "studios": "20th Century Fox",
@@ -868,6 +992,7 @@
     "winner": ""
   },
   {
+    "id": 125,
     "year": 2003,
     "title": "The Real Cancun",
     "studios": "New Line Cinema",
@@ -875,6 +1000,7 @@
     "winner": ""
   },
   {
+    "id": 126,
     "year": 2004,
     "title": "Catwoman",
     "studios": "Warner Bros.",
@@ -882,6 +1008,7 @@
     "winner": "yes"
   },
   {
+    "id": 127,
     "year": 2004,
     "title": "Alexander",
     "studios": "Warner Bros.",
@@ -889,6 +1016,7 @@
     "winner": ""
   },
   {
+    "id": 128,
     "year": 2004,
     "title": "Superbabies: Baby Geniuses 2",
     "studios": "Triumph Films",
@@ -896,6 +1024,7 @@
     "winner": ""
   },
   {
+    "id": 129,
     "year": 2004,
     "title": "Surviving Christmas",
     "studios": "DreamWorks",
@@ -903,6 +1032,7 @@
     "winner": ""
   },
   {
+    "id": 130,
     "year": 2004,
     "title": "White Chicks",
     "studios": "Columbia Pictures, Revolution Studios",
@@ -910,6 +1040,7 @@
     "winner": ""
   },
   {
+    "id": 131,
     "year": 2005,
     "title": "Dirty Love",
     "studios": "First Look Pictures",
@@ -917,6 +1048,7 @@
     "winner": "yes"
   },
   {
+    "id": 132,
     "year": 2005,
     "title": "Deuce Bigalow: European Gigolo",
     "studios": "Columbia Pictures",
@@ -924,6 +1056,7 @@
     "winner": ""
   },
   {
+    "id": 133,
     "year": 2005,
     "title": "The Dukes of Hazzard",
     "studios": "Warner Bros., Village Roadshow",
@@ -931,6 +1064,7 @@
     "winner": ""
   },
   {
+    "id": 134,
     "year": 2005,
     "title": "House of Wax",
     "studios": "Warner Bros., Village Roadshow",
@@ -938,6 +1072,7 @@
     "winner": ""
   },
   {
+    "id": 135,
     "year": 2005,
     "title": "Son of the Mask",
     "studios": "New Line Cinema",
@@ -945,6 +1080,7 @@
     "winner": ""
   },
   {
+    "id": 136,
     "year": 2006,
     "title": "Basic Instinct 2",
     "studios": "MGM, C2 Pictures",
@@ -952,6 +1088,7 @@
     "winner": "yes"
   },
   {
+    "id": 137,
     "year": 2006,
     "title": "BloodRayne",
     "studios": "Romar Entertainment",
@@ -959,6 +1096,7 @@
     "winner": ""
   },
   {
+    "id": 138,
     "year": 2006,
     "title": "Lady in the Water",
     "studios": "Warner Bros.",
@@ -966,6 +1104,7 @@
     "winner": ""
   },
   {
+    "id": 139,
     "year": 2006,
     "title": "Little Man",
     "studios": "Columbia Pictures, Revolution Studios",
@@ -973,6 +1112,7 @@
     "winner": ""
   },
   {
+    "id": 140,
     "year": 2006,
     "title": "The Wicker Man",
     "studios": "Warner Bros.",
@@ -980,6 +1120,7 @@
     "winner": ""
   },
   {
+    "id": 141,
     "year": 2007,
     "title": "I Know Who Killed Me",
     "studios": "TriStar Pictures",
@@ -987,6 +1128,7 @@
     "winner": ""
   },
   {
+    "id": 142,
     "year": 2007,
     "title": "Bratz",
     "studios": "Lionsgate",
@@ -994,6 +1136,7 @@
     "winner": ""
   },
   {
+    "id": 143,
     "year": 2007,
     "title": "Daddy Day Camp",
     "studios": "TriStar Pictures, Revolution Studios",
@@ -1001,6 +1144,7 @@
     "winner": ""
   },
   {
+    "id": 144,
     "year": 2007,
     "title": "I Now Pronounce You Chuck & Larry",
     "studios": "Universal Studios",
@@ -1008,6 +1152,7 @@
     "winner": ""
   },
   {
+    "id": 145,
     "year": 2007,
     "title": "Norbit",
     "studios": "DreamWorks",
@@ -1015,6 +1160,7 @@
     "winner": ""
   },
   {
+    "id": 146,
     "year": 2008,
     "title": "The Love Guru",
     "studios": "Paramount Pictures",
@@ -1022,6 +1168,7 @@
     "winner": "yes"
   },
   {
+    "id": 147,
     "year": 2008,
     "title": "Disaster Movie and Meet the Spartans",
     "studios": "Lionsgate, 20th Century Fox",
@@ -1029,6 +1176,7 @@
     "winner": ""
   },
   {
+    "id": 148,
     "year": 2008,
     "title": "The Happening",
     "studios": "20th Century Fox",
@@ -1036,6 +1184,7 @@
     "winner": ""
   },
   {
+    "id": 149,
     "year": 2008,
     "title": "The Hottie & the Nottie",
     "studios": "Regent Releasing",
@@ -1043,6 +1192,7 @@
     "winner": ""
   },
   {
+    "id": 150,
     "year": 2008,
     "title": "In the Name of the King",
     "studios": "Boll KG, Brightlight Pictures",
@@ -1050,6 +1200,7 @@
     "winner": ""
   },
   {
+    "id": 151,
     "year": 2009,
     "title": "Transformers: Revenge of the Fallen",
     "studios": "Paramount Pictures, DreamWorks, Hasbro",
@@ -1057,6 +1208,7 @@
     "winner": "yes"
   },
   {
+    "id": 152,
     "year": 2009,
     "title": "All About Steve",
     "studios": "20th Century Fox",
@@ -1064,6 +1216,7 @@
     "winner": ""
   },
   {
+    "id": 153,
     "year": 2009,
     "title": "G.I. Joe: The Rise of Cobra",
     "studios": "Paramount Pictures, Hasbro",
@@ -1071,6 +1224,7 @@
     "winner": ""
   },
   {
+    "id": 154,
     "year": 2009,
     "title": "Land of the Lost",
     "studios": "Universal Studios",
@@ -1078,6 +1232,7 @@
     "winner": ""
   },
   {
+    "id": 155,
     "year": 2009,
     "title": "Old Dogs",
     "studios": "Walt Disney Pictures",
@@ -1085,6 +1240,7 @@
     "winner": ""
   },
   {
+    "id": 156,
     "year": 2010,
     "title": "The Last Airbender",
     "studios": "Paramount Pictures, Nickelodeon Movies",
@@ -1092,6 +1248,7 @@
     "winner": "yes"
   },
   {
+    "id": 157,
     "year": 2010,
     "title": "The Bounty Hunter",
     "studios": "Columbia Pictures",
@@ -1099,6 +1256,7 @@
     "winner": ""
   },
   {
+    "id": 158,
     "year": 2010,
     "title": "Sex and the City 2",
     "studios": "New Line Cinema, HBO Films, Village Roadshow Pictures",
@@ -1106,6 +1264,7 @@
     "winner": ""
   },
   {
+    "id": 159,
     "year": 2010,
     "title": "The Twilight Saga: Eclipse",
     "studios": "Summit Entertainment",
@@ -1113,6 +1272,7 @@
     "winner": ""
   },
   {
+    "id": 160,
     "year": 2010,
     "title": "Vampires Suck",
     "studios": "20th Century Fox",
@@ -1120,6 +1280,7 @@
     "winner": ""
   },
   {
+    "id": 161,
     "year": 2011,
     "title": "Jack and Jill",
     "studios": "Columbia Pictures",
@@ -1127,6 +1288,7 @@
     "winner": "yes"
   },
   {
+    "id": 162,
     "year": 2011,
     "title": "Bucky Larson: Born to Be a Star",
     "studios": "Columbia Pictures",
@@ -1134,6 +1296,7 @@
     "winner": ""
   },
   {
+    "id": 163,
     "year": 2011,
     "title": "New Year's Eve",
     "studios": "Warner Bros., New Line Cinema",
@@ -1141,6 +1304,7 @@
     "winner": ""
   },
   {
+    "id": 164,
     "year": 2011,
     "title": "Transformers: Dark of the Moon",
     "studios": "Paramount Pictures",
@@ -1148,6 +1312,7 @@
     "winner": ""
   },
   {
+    "id": 165,
     "year": 2011,
     "title": "The Twilight Saga: Breaking Dawn – Part 1",
     "studios": "Summit Entertainment",
@@ -1155,6 +1320,7 @@
     "winner": ""
   },
   {
+    "id": 166,
     "year": 2012,
     "title": "The Twilight Saga: Breaking Dawn – Part 2",
     "studios": "Summit Entertainment",
@@ -1162,6 +1328,7 @@
     "winner": "yes"
   },
   {
+    "id": 167,
     "year": 2012,
     "title": "Battleship",
     "studios": "Universal Studios",
@@ -1169,6 +1336,7 @@
     "winner": ""
   },
   {
+    "id": 168,
     "year": 2012,
     "title": "The Oogieloves in the Big Balloon Adventure",
     "studios": "Lionsgate Films, Romar Entertainment, Kenn Viselman Presents",
@@ -1176,6 +1344,7 @@
     "winner": ""
   },
   {
+    "id": 169,
     "year": 2012,
     "title": "That's My Boy",
     "studios": "Columbia Pictures",
@@ -1183,6 +1352,7 @@
     "winner": ""
   },
   {
+    "id": 170,
     "year": 2012,
     "title": "A Thousand Words",
     "studios": "Paramount Pictures, DreamWorks",
@@ -1190,6 +1360,7 @@
     "winner": ""
   },
   {
+    "id": 171,
     "year": 2013,
     "title": "Movie 43",
     "studios": "Relativity Media",
@@ -1197,6 +1368,7 @@
     "winner": "yes"
   },
   {
+    "id": 172,
     "year": 2013,
     "title": "After Earth",
     "studios": "Columbia Pictures",
@@ -1204,6 +1376,7 @@
     "winner": ""
   },
   {
+    "id": 173,
     "year": 2013,
     "title": "Grown Ups 2",
     "studios": "Columbia Pictures",
@@ -1211,6 +1384,7 @@
     "winner": ""
   },
   {
+    "id": 174,
     "year": 2013,
     "title": "The Lone Ranger",
     "studios": "Walt Disney Pictures",
@@ -1218,6 +1392,7 @@
     "winner": ""
   },
   {
+    "id": 175,
     "year": 2013,
     "title": "A Madea Christmas",
     "studios": "Lionsgate",
@@ -1225,6 +1400,7 @@
     "winner": ""
   },
   {
+    "id": 176,
     "year": 2014,
     "title": "Saving Christmas",
     "studios": "Samuel Goldwyn Films",
@@ -1232,6 +1408,7 @@
     "winner": "yes"
   },
   {
+    "id": 177,
     "year": 2014,
     "title": "Left Behind",
     "studios": "Freestyle Releasing, Entertainment One",
@@ -1239,6 +1416,7 @@
     "winner": ""
   },
   {
+    "id": 178,
     "year": 2014,
     "title": "The Legend of Hercules",
     "studios": "Summit Entertainment",
@@ -1246,6 +1424,7 @@
     "winner": ""
   },
   {
+    "id": 179,
     "year": 2014,
     "title": "Teenage Mutant Ninja Turtles",
     "studios": "Paramount Pictures, Nickelodeon Movies, Platinum Dunes",
@@ -1253,6 +1432,7 @@
     "winner": ""
   },
   {
+    "id": 180,
     "year": 2014,
     "title": "Transformers: Age of Extinction",
     "studios": "Paramount Pictures",
@@ -1260,6 +1440,7 @@
     "winner": ""
   },
   {
+    "id": 181,
     "year": 2015,
     "title": "Fantastic Four",
     "studios": "20th Century Fox",
@@ -1267,6 +1448,7 @@
     "winner": "yes"
   },
   {
+    "id": 182,
     "year": 2015,
     "title": "Fifty Shades of Grey",
     "studios": "Universal Pictures, Focus Features",
@@ -1274,6 +1456,7 @@
     "winner": "yes"
   },
   {
+    "id": 183,
     "year": 2015,
     "title": "Jupiter Ascending",
     "studios": "Warner Bros.",
@@ -1281,6 +1464,7 @@
     "winner": ""
   },
   {
+    "id": 184,
     "year": 2015,
     "title": "Paul Blart: Mall Cop 2",
     "studios": "Columbia Pictures",
@@ -1288,6 +1472,7 @@
     "winner": ""
   },
   {
+    "id": 185,
     "year": 2015,
     "title": "Pixels",
     "studios": "Columbia Pictures",
@@ -1295,6 +1480,7 @@
     "winner": ""
   },
   {
+    "id": 186,
     "year": 2016,
     "title": "Hillary's America: The Secret History of the Democratic Party",
     "studios": "Quality Flix",
@@ -1302,6 +1488,7 @@
     "winner": "yes"
   },
   {
+    "id": 187,
     "year": 2016,
     "title": "Batman v Superman: Dawn of Justice",
     "studios": "Warner Bros.",
@@ -1309,6 +1496,7 @@
     "winner": ""
   },
   {
+    "id": 188,
     "year": 2016,
     "title": "Dirty Grandpa",
     "studios": "Lionsgate",
@@ -1316,6 +1504,7 @@
     "winner": ""
   },
   {
+    "id": 189,
     "year": 2016,
     "title": "Gods of Egypt",
     "studios": "Summit Entertainment",
@@ -1323,6 +1512,7 @@
     "winner": ""
   },
   {
+    "id": 190,
     "year": 2016,
     "title": "Independence Day: Resurgence",
     "studios": "20th Century Fox",
@@ -1330,6 +1520,7 @@
     "winner": ""
   },
   {
+    "id": 191,
     "year": 2016,
     "title": "Zoolander 2",
     "studios": "Paramount Pictures",
@@ -1337,6 +1528,7 @@
     "winner": ""
   },
   {
+    "id": 192,
     "year": 2017,
     "title": "The Emoji Movie",
     "studios": "Columbia Pictures",
@@ -1344,6 +1536,7 @@
     "winner": "yes"
   },
   {
+    "id": 193,
     "year": 2017,
     "title": "Baywatch",
     "studios": "Paramount Pictures",
@@ -1351,6 +1544,7 @@
     "winner": ""
   },
   {
+    "id": 194,
     "year": 2017,
     "title": "Fifty Shades Darker",
     "studios": "Universal Pictures",
@@ -1358,6 +1552,7 @@
     "winner": ""
   },
   {
+    "id": 195,
     "year": 2017,
     "title": "The Mummy",
     "studios": "Universal Pictures",
@@ -1365,6 +1560,7 @@
     "winner": ""
   },
   {
+    "id": 196,
     "year": 2017,
     "title": "Transformers: The Last Knight",
     "studios": "Paramount Pictures",
